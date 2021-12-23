@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\Sistema de ventas\layerEntidades\bin\Debug\layerEntidades.dll
+C:\Users\Diego\source\repos\Sistema de ventas\layerEntidades\bin\Debug\layerEntidades.pdb
+C:\Users\Diego\source\repos\Sistema de ventas\layerEntidades\obj\Debug\layerEntidades.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Sistema de ventas\layerEntidades\obj\Debug\layerEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Sistema de ventas\layerEntidades\obj\Debug\layerEntidades.dll
+C:\Users\Diego\source\repos\Sistema de ventas\layerEntidades\obj\Debug\layerEntidades.pdb

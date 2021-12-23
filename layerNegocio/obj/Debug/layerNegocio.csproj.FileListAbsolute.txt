@@ -1,0 +1,11 @@
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\bin\Debug\layerNegocio.dll
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\bin\Debug\layerNegocio.pdb
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\bin\Debug\layerDatos.dll
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\bin\Debug\layerEntidades.dll
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\bin\Debug\layerDatos.pdb
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\bin\Debug\layerEntidades.pdb
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\obj\Debug\layerNegocio.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\obj\Debug\layerNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\obj\Debug\layerNegocio.csproj.CopyComplete
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\obj\Debug\layerNegocio.dll
+C:\Users\Diego\source\repos\Sistema de ventas\layerNegocio\obj\Debug\layerNegocio.pdb
